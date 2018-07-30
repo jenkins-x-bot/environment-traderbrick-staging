@@ -11,6 +11,9 @@ dependencies:
 - name: bdd-test-python-http-1532956844
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: bdd-test-scala-akka-http-quickstart-1532956844
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - alias: expose
   name: exposecontroller
   repository: https://chartmuseum.build.cd.jenkins-x.io
